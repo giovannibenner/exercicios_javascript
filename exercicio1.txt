@@ -1,0 +1,3 @@
+1- A afirmação está parcialmente correta, sim, o javascript é uma linguagem interpretada, no entando isso significa que ela nao gera código fonte, nem mesmo um arquivo executável.
+
+2- Falso, por meio de frameworks como Node é possível utilizar javascript fora do browser.
