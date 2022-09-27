@@ -1,0 +1,7 @@
+1- Substitui tudo que for igual na string passada pelo que foi especificado no segundo parametro.
+
+2- Ordena o array em ordem crescente.
+
+3- Não, ela apenas possui uma adaptação da orientação a objetos.
+
+4- É um operador que instancia um novo objeto.
