@@ -1,0 +1,5 @@
+1- A declaração por var faz a variável estar em um escopo global, menos quando dentro de funções, a variável let tem o escopo local e const também, porem o valor de const nao pode ser alterado.
+
+2- Não.
+
+3- opção C.
