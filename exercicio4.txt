@@ -1,0 +1,7 @@
+1- camelCase.
+
+2- undefined.
+
+3- Tipos primitivos e tipos não-primitivos.
+
+4- Não, Javascript é uma linguagem client-side, não precisa de nenhuma requisição.
